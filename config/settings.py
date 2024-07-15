@@ -81,7 +81,7 @@ DATABASES = {
         'USER': 'abdumannobdev',      # Foydalanuvchi nomi
         'PASSWORD': '12345678',  # Foydalanuvchi paroli
         'HOST': '.vercel.app',   # Xost nomi
-        'PORT': '57456',        # Port raqami
+        'PORT': '4644',        # Port raqami
     }
 }
 
